@@ -1,6 +1,5 @@
 body {
   font-family: Helvetica, sans-serif;
-  background: Black;
   text-align: center;
 }
 
@@ -9,8 +8,16 @@ h1 {
     text-align: center;
     font-family: Verdana;
     font-weight: normal;
-    color: White;
   }
+
+  h2 {
+    font-size: 42px;
+}
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
 
 .cta {
     color: Aquamarine;
